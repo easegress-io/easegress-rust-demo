@@ -1,5 +1,4 @@
 use std::collections::HashMap;
-use std::time::Duration;
 use easegress_sdk::*;
 use easegress_macros::easegress_object;
 
